@@ -13,6 +13,12 @@ import com.example.utils.SharePerferenceUtil;
 import com.howell.ekuiclient.R;
 
 
+/**
+ * @Deprecated
+ *
+ *
+ */
+@Deprecated
 public class MainActivity extends Activity {
 
 	EditText et;

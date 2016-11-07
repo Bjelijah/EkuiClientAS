@@ -213,7 +213,6 @@ public class UDPSocket implements ISocketConnect {
 			synchronized (mSendThread) {
 				notify();
 			}
-
 		}
 		
 		public DatagramPacket popData(){
